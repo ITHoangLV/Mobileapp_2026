@@ -23,3 +23,12 @@ node_modules/
 # OS
 .DS_Store
 Thumbs.db
+
+# Binaries & Bundles
+*.apk
+**/*.apk
+screenshot_*.png
+ChatApp/screenshot_*.png
+ChatApp/android/app/src/main/assets/index.android.bundle
+ChatApp/android/app/src/main/res/drawable-*/
+ChatApp/android/app/src/main/res/raw/
