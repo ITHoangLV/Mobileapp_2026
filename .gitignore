@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Android
+**/.gradle/
+**/build/
+**/.idea/
+**/.cxx/
+**/.kotlin/
+**/local.properties
+**/*.keystore
+!**/debug.keystore
+**/*.hprof
+
+# iOS
+**/Pods/
+**/*.xcworkspace
+**/*.xcuserdata
+**/DerivedData/
+**/*.jsbundle
+
+# OS
+.DS_Store
+Thumbs.db
